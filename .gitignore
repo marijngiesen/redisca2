@@ -5,3 +5,4 @@ TODO
 *.egg
 dist/
 build/
+.idea
